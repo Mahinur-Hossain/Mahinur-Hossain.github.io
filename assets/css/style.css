@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.offCanBg{
+    background-color: #e90102;
+    width: 250px !important;
+}
+
+.sideMenu ul li a{
+    font-size: 18px;
+}
+
+.sideMenu ul li a:hover{
+    color: black !important;
+}
+
+.bannerBg{
+    background-image: url("../img/banner.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.fontEdit{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.carItem{
+    margin: 8rem 8rem !important;
+}
+
+.btnHover:hover{
+    color: white;
+    background-color: #e90102;
+}
+
+.carousel-indicators > button {
+    border-radius: 50%;
+    width: 12px !important;
+    height: 12px !important;
+    margin-top: -15px; 
+}
+
+.aboutImage{
+    background: url("../img/afbecro.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+
+.aboutImage2{
+    background: url("../img/afbecro.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.classImage{
+    background: url("../img/afbecro.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+
+.textHover:hover{
+    color: #e90102;
+}
+
+.testImage{
+    background: url("../img/afbecro.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.carBg{
+    background: url("../img/test_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
